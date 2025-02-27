@@ -1,0 +1,23 @@
+:root {
+    --primary-color:rgb(11.181,48);
+    --secondary-color: #2ecc71;
+    --font-size: 16px;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+input:focus{
+    color: #2ecc71;
+    font-style: italic;
+    padding: 10px;
+}
