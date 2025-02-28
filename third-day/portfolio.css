@@ -8,3 +8,9 @@
   margin: 40px;
   padding: 20px;
 }
+audio{
+  margin-left: 39px;
+  align-items: center;
+}
+video{width: 400px;
+height: 500px;}
